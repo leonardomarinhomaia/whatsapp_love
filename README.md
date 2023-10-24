@@ -10,7 +10,7 @@ Com mais de 17 anos de relacionamento, sempre busquei maneiras de agradar minha 
 
 O funcionamento é simples e eficaz. Sempre que o programa é executado, ele escolhe aleatoriamente uma mensagem dentre uma lista de mais de 20 mensagens que eu mesmo criei. O programa, então, envia essa mensagem automaticamente para o WhatsApp da minha esposa.
 
-Eu costumo rodar o programa uma vez por dia, mas você pode escolher a frequência que melhor se adapte ao seu relacionamento. Além disso, você pode personalizar as mensagens e destinatário e enviar para qualquer pessoa especial em sua vida. Experimente rodar o programa uma ou duas vezes por semana para sua mãe. Garanto que isso a fará muito feliz.
+Eu costumo rodar o programa uma vez por dia, mas você pode escolher a frequência que melhor se adapte ao seu relacionamento. Além disso, você pode personalizar as mensagens e destinatário, e enviar para qualquer pessoa especial em sua vida. Experimente rodar o programa uma ou duas vezes por semana para sua mãe. Garanto que isso a fará muito feliz.
 
 ## Vantagens
 
