@@ -22,7 +22,7 @@ Algumas vantagens incluem:
 ## Detalhes Técnicos
 
 - **Linguagem**: Python
-- **Biblioteca Principal**: Selenium
+- **Biblioteca principal**: Selenium
 - **IDE**: Jupyter Notebook (Anaconda)
 - **Navegador**: Utilizo o navegador Edge devido à sua estabilidade.
 - **Configuração**: Antes de executar o programa, personalize as informações necessárias no código. Procure por "********" (oito asteriscos) no código, onde encontrará detalhes sobre o que deve ser preenchido.
